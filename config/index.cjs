@@ -28,7 +28,7 @@ const USER_CONFIG = {
     eveningGreeting: false,
   
     // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: 3,
+    weather: 0,
   
     // 全网热搜榜（展示N条，最多30条）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
     networkHot: 3,
@@ -44,7 +44,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oHmdC50qcQdu8bUfSz3x8uT_RGbY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'anSmblO5qEFwLgoSelTa9-8rJBmPYZyzQx7wQUdGg-o',
+      useTemplateId: '0scqP2KeDxV_E94won5ECafGiCk0voyHoy4crzNbccY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-31',
       festivals: [
