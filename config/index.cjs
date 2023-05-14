@@ -44,7 +44,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oHmdC5yepzJDqqTdm8YQGPzfDMUA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'KPrQdxJgqPrZ-tRF9zbu7dqW32y30jFCZPPK9OyMlO8',
+      useTemplateId: '0scqP2KeDxV_E94won5ECafGiCk0voyHoy4crzNbccY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-31',
       festivals: [
@@ -57,23 +57,17 @@ const USER_CONFIG = {
           type: '*生日', name: '老公', year: '1996', date: '06-21',
         },
         {
-          type: '*生日', name: '妈', year: '1967', date: '12-14',
+          type: '*生日', name: '咱妈', year: '1967', date: '12-14',
         },
         {
-          type: '*生日', name: '爸', year: '1967', date: '10-24',
+          type: '*生日', name: '咱爸', year: '1967', date: '10-24',
         },
         {
-          type: '*生日', name: '妈妈', year: '1973', date: '02-22',
+          type: '*生日', name: '妈', year: '1973', date: '02-22',
         },
         {
-          type: '*生日', name: '爸爸', year: '1969', date: '09-02',
+          type: '*生日', name: '爸', year: '1969', date: '09-02',
         },
-	{
-          type: '*生日', name: '大姐', year: '1992', date: '09-04',
-        },
-	{
-          type: '*生日', name: '二姐', year: '1994', date: '05-17',
-        }
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
@@ -83,13 +77,14 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2021-05-02' },
       ],
     },
-    {
+	
+	{
       // 想要发送的人的名字
       name: '我',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oHmdC50qcQdu8bUfSz3x8uT_RGbY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'KPrQdxJgqPrZ-tRF9zbu7dqW32y30jFCZPPK9OyMlO8',
+      useTemplateId: '0scqP2KeDxV_E94won5ECafGiCk0voyHoy4crzNbccY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-31',
       festivals: [
@@ -113,12 +108,6 @@ const USER_CONFIG = {
         {
           type: '*生日', name: '佳爸', year: '1969', date: '09-02',
         },
-	{
-          type: '*生日', name: '大姐', year: '1992', date: '09-04',
-        },
-	{
-          type: '*生日', name: '二姐', year: '1994', date: '05-17',
-        }
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
